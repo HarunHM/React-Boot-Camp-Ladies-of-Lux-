@@ -17,11 +17,66 @@
 <hr />
 
 
- <h2>  Day 1: Introduction to JavaScript. </h2> 
+ <h2>  Day 3: Introduction to JavaScript ECMAScript5 (Part 1). </h2> 
  
 
   <h5>  Learning Materials:  <h5>
 <hr />
+
+
+ <h2>  Day 4: Introduction to JavaScript ECMAScript5 (Part 2). </h5>
+
+
+ <h5> Learning Materials: </h5>
+ 
+<hr />
+
+
+
+ <h2>  Day 5: Introduction to JavaScript ECMAScript6(Part 1). </h5>
+
+
+ <h5> Learning Materials: </h5>
+ 
+<hr />
+
+
+
+ <h2>  Day 6: Introduction to JavaScript ECMAScript6(Part 2). </h5>
+
+
+ <h5> Learning Materials: </h5>
+ 
+<hr />
+
+
+
+
+ <h2>  Day 7: JavaScript for Reactjs  </h5>
+
+
+ <h5> Learning Materials: </h5>
+ 
+<hr />
+
+
+
+ <h2>  Day 1: Git & GitHub. </h5>
+
+
+ <h5> Learning Materials: </h5>
+ 
+<hr />
+
+
+
+ <h2>  Day 1: Git & GitHub. </h5>
+
+
+ <h5> Learning Materials: </h5>
+ 
+<hr />
+
 
 
  <h2>  Day 1: Git & GitHub. </h5>
