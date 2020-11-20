@@ -85,3 +85,38 @@
  <h5> Learning Materials: </h5>
  
 <hr />
+
+ <h2>  Day 11: React functional components. </h5>
+
+
+ <h5> Learning Materials: </h5>
+ 
+<hr />
+
+ <h2>  Day 12: React  class components. </h5>
+
+
+ <h5> Learning Materials: </h5>
+ 
+<hr />
+<h2>  Day 13: React - Introduction to props. </h5>
+
+
+ <h5> Learning Materials: </h5>
+ 
+<hr />
+<h2>  Day 14: React -introduction to State. </h5>
+
+
+ <h5> Learning Materials: </h5>
+ 
+<hr />
+<h2>  Day 15: React  component Lifecycle. </h5>
+
+
+ <h5> Learning Materials: </h5>
+ 
+<hr />
+
+
+
