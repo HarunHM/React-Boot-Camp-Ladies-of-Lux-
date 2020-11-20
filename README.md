@@ -2,27 +2,27 @@
 
 <br /> 
 <hr />
-<br />
-### Day 1: Version Control System, Git & GitHub
-<br />
+
+  <h2> Day 1: Version Control System, Git & GitHub. </h2>
+  
 <hr />
-##### Learning Materials: </br
+  <h5>  Learning Materials: </h5>
 <hr />
-<br />
-### Day 2: Introduction to Frontend Web Development 
-<br />
+
+  <h2> Day 2: Introduction to Frontend Web Development.  </h2> 
+
 <hr />
-##### Learning Materials:
+ <h5> Learning Materials: </h5> 
 <hr />
-<br />
+
 <hr />
-### Day 1: Introduction to JavaScript 
-<br />
-##### Learning Materials: </br
+ <h2>  Day 1: Introduction to JavaScript. </h2> 
+<hr />
+    Learning Materials: </br
 <hr />
   
-<br />
-### Day 1: Git & GitHub
-<br />
-##### Learning Materials:
+<hr />
+ <h2>  Day 1: Git & GitHub. </h5>
+<hr />
+ <h5> Learning Materials: </h5>
 <hr />
