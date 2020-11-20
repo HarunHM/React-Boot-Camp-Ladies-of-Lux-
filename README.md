@@ -1,4 +1,5 @@
 # React 6 weeks Boot Camp -Ladies of Lux Academy.
+<p> This repository contains guide and Materials for 6 weeeks Reactjs Boot Camp by Ladies of Lux </p>
 
 <hr />
 
@@ -15,15 +16,13 @@
  
 <hr />
 
-<hr />
 
  <h2>  Day 1: Introduction to JavaScript. </h2> 
  
 
   <h5>  Learning Materials:  <h5>
 <hr />
-  
-<hr />
+
 
  <h2>  Day 1: Git & GitHub. </h5>
 
