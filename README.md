@@ -52,7 +52,7 @@
 
 
 
- <h2>  Day 7: JavaScript essentials for React developers  </h5>
+ <h2>  Day 7: JavaScript essentials for React developers.  </h5>
 
 
  <h5> Learning Materials: </h5>
@@ -70,7 +70,7 @@
 
 
 
- <h2>  Day 9: Reactjs Hello world pogram </h5>
+ <h2>  Day 9: Reactjs Hello world pogram. </h5>
 
 
  <h5> Learning Materials: </h5>
