@@ -52,7 +52,7 @@
 
 
 
- <h2>  Day 7: JavaScript for Reactjs  </h5>
+ <h2>  Day 7: JavaScript essentials for React developers  </h5>
 
 
  <h5> Learning Materials: </h5>
@@ -61,7 +61,7 @@
 
 
 
- <h2>  Day 1: Git & GitHub. </h5>
+ <h2>  Day 8: Introduction to React  and  Environment Setup. </h5>
 
 
  <h5> Learning Materials: </h5>
@@ -70,7 +70,7 @@
 
 
 
- <h2>  Day 1: Git & GitHub. </h5>
+ <h2>  Day 9: Reactjs Hello world pogram </h5>
 
 
  <h5> Learning Materials: </h5>
@@ -79,7 +79,7 @@
 
 
 
- <h2>  Day 1: Git & GitHub. </h5>
+ <h2>  Day 10: Introduction to React JSX. </h5>
 
 
  <h5> Learning Materials: </h5>
